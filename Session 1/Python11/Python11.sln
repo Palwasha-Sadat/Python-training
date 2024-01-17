@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "11a-Strings", "11a-Strings\11a-Strings.pyproj", "{40F8D8F3-1A29-4DAA-897B-90770E67187A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "11a_Numbers.py", "11a_Numbers.py\11a_Numbers.py.pyproj", "{952877B7-2958-4CA5-94F7-F75B89C90A0F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "11a-Boolean", "11a-Boolean\11a-Boolean.pyproj", "{DD189256-A05B-428D-9074-11CAC13E07F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40F8D8F3-1A29-4DAA-897B-90770E67187A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F8D8F3-1A29-4DAA-897B-90770E67187A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952877B7-2958-4CA5-94F7-F75B89C90A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952877B7-2958-4CA5-94F7-F75B89C90A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD189256-A05B-428D-9074-11CAC13E07F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD189256-A05B-428D-9074-11CAC13E07F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

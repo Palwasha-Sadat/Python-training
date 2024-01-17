@@ -1,0 +1,4 @@
+Product, Price
+Big Down Jacket, 100
+Medium Down Jacket, 80
+Regular Jacket, 40
